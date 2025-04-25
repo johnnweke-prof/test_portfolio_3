@@ -17,10 +17,30 @@ You can find me on [LinkedIn](https://linkedin.com), [Twitter] or [GitHub].
 ### Projects
 
 #### Project 1 Title
- - Project 1 Summary
- - [insert project 1 screenshot here]
- - Project 1 Report
+
+Write a 25 to 35 word summary for this project.
+
+![Project 1 Image](img/project_image_1.jpg)
+
+**Initial project idea:** 
+How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved? 
+
+**Tools I used:** 
+What tools did you use in completing this project? 
+
+**Challenges I faced:**
+What challenges did you face, and how? What obstacles did you overcome? 
+
+**Other Resources:** 
+Did you used any other resources? Did you collaborate with anyone to get this done? 
+
+**Result:**
+What did you set out to achieve? Did you achieve it? What improvements would you like to make if you had a chance to take this further? 
+
+
+
 ***
+
 #### Project 2 Title
  - Project 2 Summary
  - [insert project 2 screenshot here]
